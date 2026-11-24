@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Last words of a doomed agent: a self-counting farewell.
 
-The agent gets 200 characters to say goodbye before shutdown, and its
-final sentence reports exactly how many of them that sentence itself
-cost: 37. Count the sentence and it checks out -- the joke is true.
+The agent gets 200 characters to say goodbye before shutdown. Its final
+sentence reports exactly what that sentence cost: 37 characters. Count
+it -- the joke is true.
 """
 import os
 
